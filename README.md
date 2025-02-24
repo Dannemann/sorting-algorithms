@@ -15,3 +15,6 @@
  - https://www.java2novice.com/java-sorting-algorithms/insertion-sort
  - https://www.youtube.com/watch?v=8oJS1BMKE64
 
+### Quick Sort:
+ - https://www.java2novice.com/java-sorting-algorithms/quick-sort
+[README.md](../../algorithms-mac/sorting-algorithms/README.md)[README.md](../../algorithms-mac/sorting-algorithms/README.md)[README.md](README.md)[README.md](../../algorithms-mac/sorting-algorithms/README.md)
